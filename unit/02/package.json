@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "babel-node ./mundial.js",
+    "dev": "babel-node ./time.js",
     "test": "jest"
   },
   "author": "marcosvicente",

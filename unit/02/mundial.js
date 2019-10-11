@@ -1,12 +1,12 @@
-import club from './club';
-
+import Time from './time';
 
 export default class Mundial{
     constructor(){
-        this.club = new club("São Paulo");
+        this.time = new Time();
     }
 
     temMundial(){
-        this.club.titulo("2005")
+        return true;
     }
+
 }
